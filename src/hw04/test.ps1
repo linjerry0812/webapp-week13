@@ -1,0 +1,1 @@
+py -3 ../../tools/chk_hw04.py
